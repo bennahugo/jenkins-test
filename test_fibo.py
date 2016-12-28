@@ -12,6 +12,7 @@ def test_recursive_el_4():
 def test_recursive_el_5():
 	assert fibonacci.fibo(5) == 5
 def test_recursive_el_10():
+	assert False
 	assert fibonacci.fibo(10) == 55
 @raises(ValueError)
 def test_value_error():
