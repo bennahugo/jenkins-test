@@ -12,3 +12,4 @@ test master pushtest master pushtest master push
 okay pr test
 pr test
 hello pr test
+test trigger 2 prs
